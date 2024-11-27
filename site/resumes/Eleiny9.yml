@@ -1,0 +1,131 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Eleiny
+    last_name: Bello Manzo
+    
+    # Define yourself in 4-5 words
+    motto: Driving digital transformation forward
+    
+    # Focus
+    focus: Cloud Solutions Specialist
+    
+    # You have 1 paragraph to make a great impression, summarize your career
+    summary: |
+      Profesional con experiencia en transformación digital, implementación de servicios en la nube y metodologías ágiles como Scrum. Especializada en identificar y proporcionar soluciones personalizadas en Google Cloud para maximizar la productividad de los clientes.
+
+    # Your profile picture URL
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email: elein9@gmail.com 
+    phone: +56973585120
+    linkedin: https://www.linkedin.com/in/eleiny-bello/
+    github: Eleiny9
+
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: Spanish
+        level: Native
+      - idiom: English
+        level: Basic (Elementary)
+
+    # Interests or hobbies
+    interests:
+      - item: Cloud Computing
+      - item: Agile Methodologies
+      - item: Digital Innovation
+
+# Your previous education
+education:
+    - degree: Máster Universitario en Dirección Internacional y Gestión de la Innovación Tecnológica
+      university: La Salle BCN
+      time: octubre de 2021 - febrero de 2023
+      details: |
+        Enfoque en la dirección estratégica y la innovación tecnológica.
+
+    - degree: Ingeniero en Informática
+      university: IUT Dr. Federico Rivero Palacio
+      time: 2014 - 2016
+
+    - degree: Técnico Superior en Informática
+      university: IUT Dr. Federico Rivero Palacio
+      time: 2010 - 2014
+
+# Your previous job experiences or volunteer
+experiences:
+    - role: Sales Development Representative
+      time: marzo de 2023 - presente
+      company: Zenta Group
+      details: |
+        - Identificación y provisión de soluciones adecuadas a las necesidades de los clientes.
+        - Maximización de la productividad a través de Google Workspace.
+
+    - role: Inside Sales Google Cloud
+      time: febrero de 2021 - mayo de 2023
+      company: Zenta Group
+
+    - role: Google Cloud Representative
+      time: noviembre de 2020 - febrero de 2021
+      company: Zenta Group
+      details: |
+        - Promoción de los beneficios de Google Workspace basados en la colaboración online.
+
+    - role: Coordinador
+      time: julio de 2019 - noviembre de 2020
+      company: Zenta Group
+      details: |
+        - Coordinación de equipos bajo el modelo Scrum.
+        - Creación de dashboards y sites utilizando Google Sites.
+
+    - role: Analista de TI
+      time: marzo de 2017 - julio de 2019
+      company: Zenta Group
+      details: |
+        - Análisis y documentación de requerimientos de sistemas.
+        - Aplicación de diversas metodologías de desarrollo.
+
+    - role: Programador
+      time: febrero de 2015 - noviembre de 2015
+      company: Aúpa network C.A.
+      details: |
+        - Desarrollo de páginas web en Backend.
+        - Creación de modelos de datos y uso de WordPress.
+
+# Your certifications
+certifications:
+    - name: Curso de Introducción a Inteligencia Artificial
+    - name: Curso de Introducción a Google Cloud Platform
+    - name: Curso Profesional de Git y GitHub
+    - name: Curso Cloud Computing
+    - name: Curso de Scrum
+    - name: Introducción a Terminal y Línea de Comandos
+    - name: Curso de Productividad Personal en la Era Digital
+    - name: Redes
+    - name: Soporte Técnico y Reparación de Micro
+
+# Your skills
+skills:
+    toolset:
+      - name: Scrum
+        level: 90%
+      - name: Documentación de programas informáticos
+        level: 85%
+      - name: Gestión de proyectos
+        level: 85%
+      - name: Creación de dashboards
+        level: 80%
+      - name: Desarrollo web (Backend y WordPress)
+        level: 75%
+      - name: Herramientas de ofimática
+        level: 90%
+      - name: Google Workspace
+        level: 95%
